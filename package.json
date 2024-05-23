@@ -1,0 +1,34 @@
+{
+  "name": "skully_perms-autopermissionsmanagerbot",
+  "version": "1.0.0",
+  "description": "A Bot, that will automatically create the Permissions for a server without doing anything manually",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alm0stEthical/skully_perms-AutoPermissionsManagerBot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js",
+    "scully_perms",
+    "perms",
+    "bot_perms",
+    "autoperm",
+    "generatepermissions"
+  ],
+  "author": "Alm0stEthical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alm0stEthical/skully_perms-AutoPermissionsManagerBot/issues"
+  },
+  "homepage": "https://github.com/Alm0stEthical/skully_perms-AutoPermissionsManagerBot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
